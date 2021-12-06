@@ -1,3 +1,4 @@
+
 def vowel(character):
     """
     :param character:
